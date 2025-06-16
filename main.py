@@ -14,7 +14,7 @@ model.eval()
 # Configuration
 TARGET_CLASS = 'bottle'
 MISSING_THRESHOLD = 3  # seconds
-ALERT_SOUND = 'alert.mp3'
+ALERT_SOUND = 'alert' 
 CONFIDENCE_THRESHOLD = 0.3
 
 # COCO class names
